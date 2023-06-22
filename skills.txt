@@ -1,0 +1,5 @@
+1)SQL
+2)Postman
+3)Redis
+4)HTTP
+5)Python 
